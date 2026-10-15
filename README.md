@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/vtu30452/ACS/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/vtu30452/ACS/tree/master/0145-binary-tree-postorder-traversal) |
 | [0155-min-stack](https://github.com/vtu30452/ACS/tree/master/0155-min-stack) |
+| [0232-implement-queue-using-stacks](https://github.com/vtu30452/ACS/tree/master/0232-implement-queue-using-stacks) |
 ## Tree
 |  |
 | ------- |
@@ -117,8 +118,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/vtu30452/ACS/tree/master/0155-min-stack) |
+| [0232-implement-queue-using-stacks](https://github.com/vtu30452/ACS/tree/master/0232-implement-queue-using-stacks) |
 ## Sliding Window
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/vtu30452/ACS/tree/master/0219-contains-duplicate-ii) |
+## Queue
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/vtu30452/ACS/tree/master/0232-implement-queue-using-stacks) |
 <!---LeetCode Topics End-->
