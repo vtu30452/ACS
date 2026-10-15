@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0622-design-circular-queue](https://github.com/vtu30452/ACS/tree/master/0622-design-circular-queue) |
 | [0704-binary-search](https://github.com/vtu30452/ACS/tree/master/0704-binary-search) |
 | [0735-asteroid-collision](https://github.com/vtu30452/ACS/tree/master/0735-asteroid-collision) |
+| [0739-daily-temperatures](https://github.com/vtu30452/ACS/tree/master/0739-daily-temperatures) |
 ## Two Pointers
 |  |
 | ------- |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/vtu30452/ACS/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/vtu30452/ACS/tree/master/0496-next-greater-element-i) |
 | [0735-asteroid-collision](https://github.com/vtu30452/ACS/tree/master/0735-asteroid-collision) |
+| [0739-daily-temperatures](https://github.com/vtu30452/ACS/tree/master/0739-daily-temperatures) |
 ## Tree
 |  |
 | ------- |
@@ -179,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/vtu30452/ACS/tree/master/0496-next-greater-element-i) |
+| [0739-daily-temperatures](https://github.com/vtu30452/ACS/tree/master/0739-daily-temperatures) |
 ## Binary Search
 |  |
 | ------- |
