@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/vtu30452/ACS/tree/master/0283-move-zeroes) |
 | [0496-next-greater-element-i](https://github.com/vtu30452/ACS/tree/master/0496-next-greater-element-i) |
 | [0622-design-circular-queue](https://github.com/vtu30452/ACS/tree/master/0622-design-circular-queue) |
+| [0704-binary-search](https://github.com/vtu30452/ACS/tree/master/0704-binary-search) |
 ## Two Pointers
 |  |
 | ------- |
@@ -176,4 +177,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/vtu30452/ACS/tree/master/0496-next-greater-element-i) |
+## Binary Search
+|  |
+| ------- |
+| [0704-binary-search](https://github.com/vtu30452/ACS/tree/master/0704-binary-search) |
 <!---LeetCode Topics End-->
